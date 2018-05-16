@@ -9,7 +9,6 @@ This is a function-only challenge, so input is handled for you by the locked stu
 - Takes an array of integers as a parameter.
 
 
-The locked code in the editor handles reading the following input from stdin, assembling it into an array of integers (arr), and calling calculate(arr).
 The first line of input contains an integer, T (the number of test cases). Each line i of the T subsequent lines describes the ith test case as an integer, Ni (the number of days).
 
 
