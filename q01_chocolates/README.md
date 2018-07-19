@@ -16,10 +16,10 @@ For each test case, Ti in arr, your calculate method should print the total numb
 ### Explanation
 For eg if List=[1,2,5,8]
 
-Test Case 0: N = 1 Sam buys 1 chocolate on day 1, giving us a total of 1 chocolate. Thus, we print 1 on a new line.
+Test Case 0: N = 1, Sam buys 1 chocolate on day 1, giving us a total of 1 chocolate. Thus, we print 1 on a new line.
 
-Test Case 1: N = 2 Sam buys 1 chocolate on day 1 and 0 on day 2. This gives us a total of 1 chocolate. Thus, we print 1 on a new line.
+Test Case 1: N = 2, Sam buys 1 chocolate on day 1 and 0 on day 2. This gives us a total of 1 chocolate. Thus, we print 1 on a new line.
 
-Test Case 2: N = 5 Sam buys 1 chocolate on day 1, 0 on day 2, and 5 on day 5. This gives us a total of 6 chocolates. Thus, we print 6 on a new line.
+Test Case 2: N = 5, Sam buys 1 chocolate on day 1, 0 on day 2, and 5 on day 5. This gives us a total of 6 chocolates. Thus, we print 6 on a new line.
 
-Test Case 3: N = 8 Sam buys 1 chocolate on day 1, 0 on day 2, 5 on day 5 and 0 on day 8. This gives us a total of 6 chocolates. Thus, we print 6 on a new line.
+Test Case 3: N = 8, Sam buys 1 chocolate on day 1, 0 on day 2, 5 on day 5 and 0 on day 8. This gives us a total of 6 chocolates. Thus, we print 6 on a new line.
